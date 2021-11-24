@@ -1,0 +1,10 @@
+Conclusion:
+-------------------------------
+Which model has a lower loss?
+Answer:  The closing prices predictor has a much lower loss when compared with common parameters.
+-------------------------------
+Which model tracks the actual values better over time?
+Answer:  The closing prices predictor.
+-------------------------------
+Which window size works best for the model?
+Answer:  A window size of 10 provided the lowest level of loss for both models
